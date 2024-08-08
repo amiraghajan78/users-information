@@ -25,7 +25,7 @@
             "f_name" : "ValiAllah",
             "l_name" : "Aghajanzadeh"
         },
-        "gender" : "Female",
+        "gender" : "Male",
         "age" : 55,
         "code" : 2060904991,
         "tel" : 9381452582,
@@ -46,7 +46,7 @@
             "f_name" : "Mehri",
             "l_name" : "Ahmadalizadeh"
         },
-        "gender" : "Male",
+        "gender" : "Female",
         "age" : 43,
         "code" : 2070904991,
         "tel" : 9037120948,
